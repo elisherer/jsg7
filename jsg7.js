@@ -46,7 +46,7 @@ JSG7 = {
 	},
 
 	run: function() {
-		var nodelist = document.getElementsByTagName('seg7');
+		var nodelist = document.getElementsByTagName('jsg7');
 		var listcopy = [];
 		for (var i = 0; i < nodelist.length; i++)
 			listcopy.push(nodelist[i]);
